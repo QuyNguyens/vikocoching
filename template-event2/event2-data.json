@@ -1,0 +1,62 @@
+{
+  "left": {
+    "title": "Kỹ năng giao tiếp hiệu quả trong công việc",
+    "description": "Học cách giao tiếp rõ ràng, thuyết phục và xây dựng mối quan hệ tốt với đồng nghiệp và khách hàng. Workshop này sẽ trang bị cho bạn những kỹ năng giao tiếp cần thiết để thành công trong môi trường công việc hiện đại.",
+    "rating": {
+      "value": 4.9,
+      "count": 31,
+      "icon": "icons/star.svg"
+    },
+    "info": [
+      { "icon": "icons/date-time.svg", "text": "23/06/2025" },
+      { "icon": "icons/clock.svg", "text": "14:00 - 16:00 (2 giờ)" },
+      { "icon": "icons/zoom.svg", "text": "Zoom Meeting" },
+      { "icon": "icons/zoom.svg", "text": "15/20 người đã đăng ký" }
+    ],
+    "learn": {
+      "title": "Bạn sẽ học được gì?",
+      "items": [
+        "Nắm vững các nguyên tắc giao tiếp hiệu quả",
+        "Phát triển kỹ năng lắng nghe tích cực",
+        "Học cách xử lý xung đột và tình huống khó khăn",
+        "Xây dựng mối quan hệ tốt với đồng nghiệp",
+        "Tăng cường sự tự tin trong giao tiếp",
+        "Áp dụng ngay vào công việc hàng ngày"
+      ],
+      "icon": "icons/check-list.svg"
+    },
+    "requirements": {
+      "title": "Yêu cầu tham gia",
+      "items": [
+        "Không yêu cầu kinh nghiệm trước đó",
+        "Mang theo notebook để ghi chú",
+        "Tinh thần học hỏi và tham gia tích cực",
+        "Đến đúng giờ để không bỏ lỡ nội dung quan trọng"
+      ]
+    },
+    "lecturer": {
+      "title": "Giảng viên",
+      "name": "Quy-Vang Le",
+      "avatar": "icons/avatar.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut feugiat aliquet convallis. Morbi cursus scelerisque est, a sodales mi fringilla sit amet. Donec ultrices id ante a tempus. Sed scelerisque elit in lectus fermentum condimentum."
+    }
+  },
+  "right": {
+    "workshop": {
+      "image": "icons/group-person.png",
+      "price": "399.000 VNĐ",
+      "oldPrice": "499.000 VNĐ",
+      "slots": "Còn 5 chỗ trống",
+      "includes": [
+        "2 giờ đào tạo chuyên sâu",
+        "Tài liệu workshop đầy đủ",
+        "Template và checklist thực tế",
+        "Hỗ trợ 1 tháng qua email"
+      ],
+      "actions": [
+        { "label": "Đăng ký ngay", "type": "primary", "link": "#" },
+        { "label": "Liên hệ tư vấn", "type": "secondary", "link": "#" }
+      ]
+    }
+  }
+}
